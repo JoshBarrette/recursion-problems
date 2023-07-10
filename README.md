@@ -1,0 +1,2 @@
+# Recursion Problems
+Recursion problems assigned in CSCI 242. Most notably being the Tricky Towers of Hanoi problem. The tricky version requires moving all the disks from the left peg to the right peg while using the middle peg for every move.
